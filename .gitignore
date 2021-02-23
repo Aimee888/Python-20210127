@@ -1,3 +1,8 @@
+# own
+MyOwn/
+.idea/
+20210222/HxD_chs_jb51/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
